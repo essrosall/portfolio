@@ -28,7 +28,7 @@ ___
 #### Shoe Ordering System (_Desktop_)
 - Description:
 - Programming Language:
-- 
+  
 ![SHOE-ORDERING_SYSTEM](assets/SHOE-ORDERING-SYSTEM.png)
 
 #### **Loan Release System** (_Desktop_)
@@ -44,7 +44,7 @@ ___
 #### **Coffee Ordering System** (_Mobile_)
 - Description:
 - Programming Language:
-- 
+
 ![COFFEE-ORDERING-1](assets/COFFEE-ORDERING-2.png)
 ![COFFEE-ORDERING-2](assets/COFFEE-ORDERING-1.png)
   
