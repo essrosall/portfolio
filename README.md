@@ -1,10 +1,10 @@
-## Introduction
+## INTRODUCTION
 #### About Me:
 [Downloadable CV]
 
 ___
 
-## Projects
+## PROJECTS
 
 ### Project System
 #### BangBrew Ordering System
