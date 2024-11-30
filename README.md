@@ -75,7 +75,7 @@ ___
   
 - Software Used: *Figma*
   
-![LEANDRO-LOCSIN-WEB](assets/LEANDRO-LOCSIN-WEB.png)
+![LEANDRO-LOCSIN-MOBILE](assets/LEANDRO-LOCSIN-MOBILE.png)
 
 #### **Leandro Locsin Integrated School** (_Desktop_)
 - Description
