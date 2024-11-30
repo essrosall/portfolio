@@ -45,8 +45,8 @@ ___
 - Description:
 - Programming Language:
 - 
-![COFFEE-ORDERING-1]()
-![COFFEE-ORDERING-2]()
+![COFFEE-ORDERING-1](assets/COFFEE-ORDERING-2.png)
+![COFFEE-ORDERING-2](assets/COFFEE-ORDERING-1.png)
   
 #### **Leandro Locsin Integrated School** (_Website_)
 - Description:
