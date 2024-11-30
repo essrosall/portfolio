@@ -28,7 +28,7 @@ ___
 #### Shoe Ordering System (_Desktop_)
 - Description:
 - Programming Language:
-- Image:
+![SHOE-ORDERING_SYSTEM]()
 
 #### **Loan Release System** (_Desktop_)
 - Description:
