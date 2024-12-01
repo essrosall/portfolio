@@ -3,14 +3,9 @@ logo: assets/me2.png
 description: UI/UX Designer | Graphic Designer
 show-downloads: true
 theme: jekyll-theme-minimal
-github:
-  id: https://github.com/essrosall
-  href: 'https://github.com/'
-  title: 'GitHub'
-  fa-icon: 'fa-github'
 
-facebook:
-  id: https://www.facebook.com/ess.rosall/
-  href: 'https://twitter.com/'
-  title: 'Facebook'
-  fa-icon: 'fa-facebook'
+social:
+  github: https://github.com/essrosall
+  twitter: https://twitter.com/your-twitter-username
+  facebook: https://www.facebook.com/ess.rosall/
+  instagram: https://www.instagram.com/ess.rosall/
