@@ -1,5 +1,5 @@
 ## INTRODUCTION
-#### About Me
+### About Me
 
 > Hey there! I’m John Rey Rosales, your friendly neighborhood designer. I spend my days diving into the world of design—whether it’s sketching on paper or clicking away on my computer, I’m always on the lookout for new tools to level up my creative game.
 
@@ -13,16 +13,16 @@ ___
 
 |Technical        | Proficiency        |
 |--------------|--------------------|
-| **Java**     | [██████████] 90%   |
-| **C#**       | [████████░░] 80%   |
+| *Java*     | [██████████] 90%   |
+| *C#*      | [████████░░] 80%   |
 
 
 |Design       | Proficiency        |
 |--------------|--------------------|
-| **Illustrator** | [███████░░░] 70% |
-| **Photoshop** | [██████████] 95%   |
-| **Figma**    | [██████████] 95%   |
-| **Canva**    | [██████████] 90%   |
+| *Illustrator* | [███████░░░] 70% |
+| *Photoshop* | [██████████] 95%   |
+| *Figma*    | [██████████] 95%   |
+| *Canva*    | [██████████] 90%   |
 
 ___
 
