@@ -18,94 +18,126 @@ ___
 - Image:
 
 #### QCU Voting System
-- Description
+Overview
   
-  >
-- Programming Language:
-- Image:
+  > The online voting system at Quezon City University (QCU) enables members to cast their votes electronically, ensuring convenience and accessibility. This system is designed to maintain the integrity of the voting process, preventing multiple votes from a single voter.
+
+Programming Language: Java with XAMPP Database
+
+[System Video Demonstration](https://drive.google.com/file/d/1VZSkqYE48eyS8SrvtFdMhC4YDkLuNtCk/view?usp=sharing)
 
 #### Simple MVC Profile
-- Description
+
+![MVC-PROFILE](assets/MVC-PROFILE.png)
+
+Overview
   
   > The Loan Release System is designed to simplify the management of loan applications, providing clear dashboards for both applicants and administrators. Users can easily track application statuses, upload necessary documents, and view payment schedules, all within a user-friendly layout.
   
-- Programming Language: *Visual Studio C# MVC*
+Programming Language: *Visual Studio C# MVC*
   
-![MVC-PROFILE](assets/MVC-PROFILE.png)
 
 ___
 
 ### **System Design Project**
+
 #### Shoe Ordering System (_Desktop_)
-- Description
+
+![SHOE-ORDERING_SYSTEM](assets/SHOE-ORDERING-SYSTEM.png)
+
+**Overview**
   
   > The Shoe Ordering System offers a seamless shopping experience with an organized catalog of footwear, detailed product descriptions, and customizable options. Users can easily filter by size, color, and brand, ensuring a convenient and enjoyable purchasing process.
   
-- Software Used: *Figma*
+**Software Used**: *Figma*
   
-![SHOE-ORDERING_SYSTEM](assets/SHOE-ORDERING-SYSTEM.png)
+___
 
 #### **Loan Release System** (_Desktop_)
-- Description
-  
-  > The Loan Release System is designed to simplify the management of loan applications, providing clear dashboards for both applicants and administrators. Users can easily track application statuses, upload necessary documents, and view payment schedules, all within a user-friendly layout.
-  
-- Software Used: *Figma*
 
 ![LOAN-RELEASE](assets/LOAN-RELEASE.png)
 
-#### **QCU Voting System** (_Desktop_)
-- Description
-
-  > The Online Voting System offers a secure and accessible platform for voters to register and cast their ballots. With a clean design and straightforward navigation, users can easily participate in elections and view real-time results, ensuring a trustworthy voting process.
+Overview
   
-- Software Used: *Figma*
+  > The Loan Release System is designed to simplify the management of loan applications, providing clear dashboards for both applicants and administrators. Users can easily track application statuses, upload necessary documents, and view payment schedules, all within a user-friendly layout.
+  
+Software Used: *Figma*
+
+___
+
+#### **QCU Voting System** (_Desktop_)
 
 ![QCU-VOTING](assets/QCU-VOTING.png)
 
-#### **Coffee Ordering System** (_Mobile_)
-- Description
+Overview
 
-  > The Coffee Ordering System features an intuitive interface that allows customers to easily browse the menu, customize their drinks, and complete secure transactions. Its streamlined design enhances the ordering experience, making it quick and enjoyable for coffee enthusiasts.
+  > The Online Voting System offers a secure and accessible platform for voters to register and cast their ballots. With a clean design and straightforward navigation, users can easily participate in elections and view real-time results, ensuring a trustworthy voting process.
   
-- Software Used: *Figma*
+Software Used: *Figma*
+
+___
+
+#### **Coffee Ordering System** (_Mobile_)
 
 ![COFFEE-ORDERING-1](assets/COFFEE-ORDERING-2.png)
 ![COFFEE-ORDERING-2](assets/COFFEE-ORDERING-1.png)
+
+Overview
+
+  > The Coffee Ordering System features an intuitive interface that allows customers to easily browse the menu, customize their drinks, and complete secure transactions. Its streamlined design enhances the ordering experience, making it quick and enjoyable for coffee enthusiasts.
+  
+Software Used: *Figma*
+
+___
   
 #### **Leandro Locsin Integrated School** (_Website_)
-- Description
+
+![LEANDRO-LOCSIN-MOBILE](assets/LEANDRO-LOCSIN-MOBILE.png)
+
+Overview
 
   > The School Management System website provides a responsive platform for students, parents, and staff, featuring announcements, event calendars, and downloadable resources. Designed for ease of use, it promotes engagement and communication among all stakeholders in the school community.
   
-- Software Used: *Figma*
+Software Used: *Figma*
   
-![LEANDRO-LOCSIN-MOBILE](assets/LEANDRO-LOCSIN-MOBILE.png)
+___
 
 #### **Leandro Locsin Integrated School** (_Desktop_)
-- Description
+
+![LEANDRO-LOCSIN-DESK](assets/LEANDRO-LOCSIN-DESK.png)
+
+Overview
 
   > The School Management System for desktop streamlines administrative tasks within educational institutions, including student enrollment, attendance tracking, and grade management. Its organized layout allows for quick access to essential features, enhancing overall efficiency for staff and administrators.
   
 - Software Used: *Figma*
-  
-![LEANDRO-LOCSIN-DESK](assets/LEANDRO-LOCSIN-DESK.png)
 
-  
+    
 ___
 
 ## Skills
 
 #### Technical Skills:
-- Java: <div style="width: 90%; background-color: #4CAF50; color: white; text-align: center;">90%</div>
-- C#: <div style="width: 80%; background-color: #4CAF50; color: white; text-align: center;">80%</div>
+- Java
+  - [██████████] 90%
+- C#
+  - [████████░░] 80%
 
 #### Design Skills:
-- Illustrator: <div style="width: 95%; background-color: #4CAF50; color: white; text-align: center;">95%</div>
-- Photoshop: <div style="width: 90%; background-color: #4CAF50; color: white; text-align: center;">90%</div>
-- Figma: <div style="width: 80%; background-color: #4CAF50; color: white; text-align: center;">80%</div>
-- Canva: <div style="width: 70%; background-color: #4CAF50; color: white; text-align: center;">70%</div>
+- Illustrator
+  - [███████░░░] 70%
+- Photoshop
+  - [██████████] 95%
+- Figma
+  - [██████████] 95%
+- Canva
+  - [██████████] 90%
 
 
+| Technical Skills | Design Skills | Header 3 |
+|----------|----------|----------|
+| Row 1    | Data 1   | Data 2   |
+| Row 2    | Data 3   | Data 4   |
+| Row 3    | Data 5   | Data 6   |
 
 
