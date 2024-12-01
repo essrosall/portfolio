@@ -9,23 +9,20 @@
 
 ___
 
-## Skills
+## SKILLS
 
-#### Technical Skills:
-- Java
-  - [██████████] 90%
-- C#
-  - [████████░░] 80%
+|Technical        | Proficiency        |
+|--------------|--------------------|
+| **Java**     | [██████████] 90%   |
+| **C#**       | [████████░░] 80%   |
 
-#### Design Skills:
-- Illustrator
-  - [███████░░░] 70%
-- Photoshop
-  - [██████████] 95%
-- Figma
-  - [██████████] 95%
-- Canva
-  - [██████████] 90%
+
+|Design       | Proficiency        |
+|--------------|--------------------|
+| **Illustrator** | [███████░░░] 70% |
+| **Photoshop** | [██████████] 95%   |
+| **Figma**    | [██████████] 95%   |
+| **Canva**    | [██████████] 90%   |
 
 ___
 
@@ -33,7 +30,7 @@ ___
 
 ### Project System
 
-#### BangBrew Ordering System
+#### ___BangBrew Ordering System___
 
 ![BB](assets/BB.png)
 
@@ -41,13 +38,13 @@ Overview
 
 > The Bangbrew Ordering System is a digital platform that simplifies milk tea ordering. It features a user-friendly interface for browsing the menu, customizing drinks, and making secure payments. Key features include real-time order tracking and promotional offers, enhancing customer satisfaction and convenience.
 
-Programming Language: Java with XAMPP Database
+Programming Language: ___Java with XAMPP Database___
 
 [System Video Demonstration](https://drive.google.com/file/d/1Hhtnuk_VziSX_HN9Ec5jb5WojCXiw5eq/view?usp=sharing)
 
 ___
 
-#### QCU Voting System
+#### ___QCU Voting System___
 
 ![SYSTEM-VOTING](assets/SYSTEM-VOTING.png)
 
@@ -55,11 +52,11 @@ Overview
   
   > The online voting system at Quezon City University (QCU) enables members to cast their votes electronically, ensuring convenience and accessibility. This system is designed to maintain the integrity of the voting process, preventing multiple votes from a single voter.
 
-Programming Language: Java with XAMPP Database
+Programming Language: ___Java with XAMPP Database___
 
 [System Video Demonstration](https://drive.google.com/file/d/1VZSkqYE48eyS8SrvtFdMhC4YDkLuNtCk/view?usp=sharing)
 
-#### Simple MVC Profile
+#### ___Simple MVC Profile___
 
 ![MVC-PROFILE](assets/MVC-PROFILE.png)
 
@@ -67,15 +64,15 @@ Overview
   
   > The Loan Release System is designed to simplify the management of loan applications, providing clear dashboards for both applicants and administrators. Users can easily track application statuses, upload necessary documents, and view payment schedules, all within a user-friendly layout.
   
-Programming Language: *Visual Studio C# MVC*
+Programming Language: ___Visual Studio C# MVC___
 
   
 ___
 
 
-### **System Design Project**
+### System Design Project
 
-#### Shoe Ordering System (_Desktop_)
+#### ___Shoe Ordering System___ (_Desktop_)
 
 ![SHOE-ORDERING_SYSTEM](assets/SHOE-ORDERING-SYSTEM.png)
 
@@ -83,11 +80,11 @@ Overview
   
   > The Shoe Ordering System offers a seamless shopping experience with an organized catalog of footwear, detailed product descriptions, and customizable options. Users can easily filter by size, color, and brand, ensuring a convenient and enjoyable purchasing process.
   
-Software Used: *Figma*
+Software Used: ___Figma___
   
 ___
 
-#### **Loan Release System** (_Desktop_)
+#### ___Loan Release System___ (_Desktop_)
 
 ![LOAN-RELEASE](assets/LOAN-RELEASE.png)
 
@@ -95,11 +92,11 @@ Overview
   
   > The Loan Release System is designed to simplify the management of loan applications, providing clear dashboards for both applicants and administrators. Users can easily track application statuses, upload necessary documents, and view payment schedules, all within a user-friendly layout.
   
-Software Used: *Figma*
+Software Used: ___Figma___
 
 ___
 
-#### **QCU Voting System** (_Desktop_)
+#### ___QCU Voting System___ (_Desktop_)
 
 ![QCU-VOTING](assets/QCU-VOTING.png)
 
@@ -107,11 +104,11 @@ Overview
 
   > The Online Voting System offers a secure and accessible platform for voters to register and cast their ballots. With a clean design and straightforward navigation, users can easily participate in elections and view real-time results, ensuring a trustworthy voting process.
   
-Software Used: *Figma*
+Software Used: ___Figma___
 
 ___
 
-#### **Coffee Ordering System** (_Mobile_)
+#### ___Coffee Ordering System___ (_Mobile_)
 
 ![COFFEE-ORDERING-1](assets/COFFEE-ORDERING-2.png)
 ![COFFEE-ORDERING-2](assets/COFFEE-ORDERING-1.png)
@@ -120,7 +117,7 @@ Overview
 
   > The Coffee Ordering System features an intuitive interface that allows customers to easily browse the menu, customize their drinks, and complete secure transactions. Its streamlined design enhances the ordering experience, making it quick and enjoyable for coffee enthusiasts.
   
-Software Used: *Figma*
+Software Used: ___Figma___
 
 ___
   
@@ -132,19 +129,19 @@ Overview
 
   > The School Management System website provides a responsive platform for students, parents, and staff, featuring announcements, event calendars, and downloadable resources. Designed for ease of use, it promotes engagement and communication among all stakeholders in the school community.
   
-Software Used: *Figma*
+Software Used: ___Figma___
   
 ___
 
-#### **Leandro Locsin Integrated School** (_Desktop_)
+#### ___Leandro Locsin Integrated School___ (_Desktop_)
 
 ![LEANDRO-LOCSIN-DESK](assets/LEANDRO-LOCSIN-DESK.png)
 
 Overview
 
-  > The School Management System for desktop streamlines administrative tasks within educational institutions, including student enrollment, attendance tracking, and grade management. Its organized layout allows for quick access to essential features, enhancing overall efficiency for staff and administrators.
+   > The School Management System for desktop streamlines administrative tasks within educational institutions, including student enrollment, attendance tracking, and grade management. Its organized layout allows for quick access to essential features, enhancing overall efficiency for staff and administrators.
   
-- Software Used: *Figma*
+- Software Used: ___Figma___
 
     
 ___
