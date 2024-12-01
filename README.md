@@ -9,6 +9,31 @@
 
 ___
 
+## CONTACT ME
+
+I’m always excited to work on creative projects and bring ideas to life! Whether it’s a collaboration or a commission, feel free to reach out. Let’s create something amazing together!
+
+
+__Socials__
+
+[![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg)](https://www.facebook.com/ess.rosall/)
+[![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)](https://github.com/essrosall)
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/ess.rosall/)
+
+___
+
+__Mobile Number:__ +63 993 6768 737
+
+__Location:__ [Jose Abad Santos, Novaliches, Quezon City, Metro Manila, Philippines](https://maps.app.goo.gl/rLCAmkpS49Hiw94PA)
+
+__Email:__ rosales.johnrey.agpalza@gmail.com
+
+___
+
+Looking forward to hearing from you!
+
+___
+
 ## SKILLS
 
 |Technical        | Proficiency        |
@@ -143,9 +168,8 @@ Overview
   
 - Software Used: ___Figma___
 
-    
+  
 ___
-
 
 
 
