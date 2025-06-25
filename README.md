@@ -5,7 +5,7 @@
 
 > When I’m not busy crafting visuals, you can find me exploring new places and soaking up different cultures. I also have a soft spot for badminton; it’s my go-to way to stay active and have a little fun. Life’s all about balance, right? I’m excited to share my adventures and designs with you!
 
-[Downloadable CV](https://drive.google.com/file/d/1kbc68B2jzIy1hTepUZWlzqlG48Q9w2JE/view?usp=sharing)
+[Downloadable CV](https://drive.google.com/file/d/1mit1B4gx05lmJzqlYqrt-GL2gJPbU1F8/view?usp=sharing)
 
 ___
 
