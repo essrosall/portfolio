@@ -1,4 +1,4 @@
-## INTRODUCTION
+![image](https://github.com/user-attachments/assets/a8f446bc-f876-4e44-aec1-456a33ea0e28)![image](https://github.com/user-attachments/assets/34645799-f68c-4e49-89d0-c7498258a7bf)## INTRODUCTION
 ### About Me
 
 > Hey there! I’m John Rey Rosales, your friendly neighborhood designer. I spend my days diving into the world of design—whether it’s sketching on paper or clicking away on my computer, I’m always on the lookout for new tools to level up my creative game.
@@ -63,6 +63,7 @@ ___
 ### Project System
 
 #### ___BangBrew Ordering System___
+__May 2023__
 
 ![BB](assets/BB.png)
 
@@ -72,11 +73,14 @@ Overview
 
 Programming Language: ___Java with XAMPP Database___
 
+Position: ___UI/UX Designer | Programmer | Project Manager___
+
 [System Video Demonstration](https://drive.google.com/file/d/1Hhtnuk_VziSX_HN9Ec5jb5WojCXiw5eq/view?usp=sharing)
 
 ___
 
 #### ___QCU Voting System___
+__December 2023__
 
 ![SYSTEM-VOTING](assets/SYSTEM-VOTING.png)
 
@@ -86,9 +90,12 @@ Overview
 
 Programming Language: ___Java with XAMPP Database___
 
+Position: ___UI/UX Designer | Programmer___
+
 [System Video Demonstration](https://drive.google.com/file/d/1VZSkqYE48eyS8SrvtFdMhC4YDkLuNtCk/view?usp=sharing)
 
 #### ___Simple MVC Profile___
+__November 2024__
 
 ![MVC-PROFILE](assets/MVC-PROFILE.png)
 
@@ -98,6 +105,8 @@ Overview
   
 Programming Language: ___Visual Studio C# MVC___
 
+Position: ___UI/UX Designer | Programmer___
+
   
 ___
 
@@ -105,6 +114,7 @@ ___
 ### System Design Project
 
 #### ___Shoe Ordering System___ (_Desktop_)
+__December 2022__
 
 ![SHOE-ORDERING_SYSTEM](assets/SHOE-ORDERING-SYSTEM.png)
 
@@ -113,10 +123,13 @@ Overview
   > The Shoe Ordering System offers a seamless shopping experience with an organized catalog of footwear, detailed product descriptions, and customizable options. Users can easily filter by size, color, and brand, ensuring a convenient and enjoyable purchasing process.
   
 Software Used: ___Figma___
+
+Position: ___UI/UX Designer___
   
 ___
 
 #### ___Loan Release System___ (_Desktop_)
+__Arpil 2024__
 
 ![LOAN-RELEASE](assets/LOAN-RELEASE.png)
 
@@ -126,9 +139,12 @@ Overview
   
 Software Used: ___Figma___
 
+Position: ___UI/UX Designer___
+
 ___
 
 #### ___QCU Voting System___ (_Desktop_)
+__November 2023__
 
 ![QCU-VOTING](assets/QCU-VOTING.png)
 
@@ -138,9 +154,12 @@ Overview
   
 Software Used: ___Figma___
 
+Position: ___UI/UX Designer___
+
 ___
 
 #### ___Coffee Ordering System___ (_Mobile_)
+__December 2024__
 
 ![COFFEE-ORDERING-1](assets/COFFEE-ORDERING-2.png)
 ![COFFEE-ORDERING-2](assets/COFFEE-ORDERING-1.png)
@@ -151,9 +170,27 @@ Overview
   
 Software Used: ___Figma___
 
+Position: ___UI/UX Designer___
+
+___
+
+#### ___Leandro Locsin Integrated School___ (_Desktop_)
+__February 2025__
+
+![LEANDRO-LOCSIN-DESK](assets/LEANDRO-LOCSIN-DESK.png)
+
+Overview
+
+   > The School Management System for desktop streamlines administrative tasks within educational institutions, including student enrollment, attendance tracking, and grade management. Its organized layout allows for quick access to essential features, enhancing overall efficiency for staff and administrators.
+  
+Software Used: ___Figma___
+ 
+Position: ___UI/UX Designer___
+
 ___
   
 #### **Leandro Locsin Integrated School** (_Website_)
+__January 2025__
 
 ![LEANDRO-LOCSIN-MOBILE](assets/LEANDRO-LOCSIN-MOBILE.png)
 
@@ -162,19 +199,8 @@ Overview
   > The School Management System website provides a responsive platform for students, parents, and staff, featuring announcements, event calendars, and downloadable resources. Designed for ease of use, it promotes engagement and communication among all stakeholders in the school community.
   
 Software Used: ___Figma___
-  
-___
 
-#### ___Leandro Locsin Integrated School___ (_Desktop_)
-
-![LEANDRO-LOCSIN-DESK](assets/LEANDRO-LOCSIN-DESK.png)
-
-Overview
-
-   > The School Management System for desktop streamlines administrative tasks within educational institutions, including student enrollment, attendance tracking, and grade management. Its organized layout allows for quick access to essential features, enhancing overall efficiency for staff and administrators.
-  
-- Software Used: ___Figma___
-
+Position: ___UI/UX Designer___
   
 ___
 
