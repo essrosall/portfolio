@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a8f446bc-f876-4e44-aec1-456a33ea0e28)![image](https://github.com/user-attachments/assets/34645799-f68c-4e49-89d0-c7498258a7bf)## INTRODUCTION
+## INTRODUCTION
 ### About Me
 
 > Hey there! I’m John Rey Rosales, your friendly neighborhood designer. I spend my days diving into the world of design—whether it’s sketching on paper or clicking away on my computer, I’m always on the lookout for new tools to level up my creative game.
