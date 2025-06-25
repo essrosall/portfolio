@@ -73,7 +73,7 @@ Overview
 
 Programming Language: ___Java with XAMPP Database___
 
-Position: ___UI/UX Designer  Programmer  Project Manager___
+Position: ___UI/UX Designer, Programmer, Project Manager___
 
 [System Video Demonstration](https://drive.google.com/file/d/1Hhtnuk_VziSX_HN9Ec5jb5WojCXiw5eq/view?usp=sharing)
 
@@ -90,7 +90,7 @@ Overview
 
 Programming Language: ___Java with XAMPP Database___
 
-Position: ___UI/UX Designer  Programmer___
+Position: ___UI/UX Designer, Programmer___
 
 [System Video Demonstration](https://drive.google.com/file/d/1VZSkqYE48eyS8SrvtFdMhC4YDkLuNtCk/view?usp=sharing)
 
@@ -105,7 +105,7 @@ Overview
   
 Programming Language: ___Visual Studio C# MVC___
 
-Position: ___UI/UX Designer  Programmer___
+Position: ___UI/UX Designer, Programmer___
 
   
 ___
