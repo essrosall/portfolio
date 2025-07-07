@@ -11,8 +11,7 @@ ___
 
 ## WORK EXPERIENCE
 
-**GraphicArtist**
-*[TAPP.PHPrintingServices](https://www.facebook.com/TAPPClothingAndApparel)*
+**GraphicArtist** @ *[TAPP.PHPrintingServices](https://www.facebook.com/TAPPClothingAndApparel)*
 ___(September 2023 - Semptembere 2024)___
 
 
