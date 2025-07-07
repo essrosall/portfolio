@@ -3,9 +3,13 @@
 
 > Hey there! I’m John Rey Rosales, your friendly neighborhood designer. I spend my days diving into the world of design—whether it’s sketching on paper or clicking away on my computer, I’m always on the lookout for new tools to level up my creative game.
 
-> When I’m not busy crafting visuals, you can find me exploring new places and soaking up different cultures. I also have a soft spot for badminton; it’s my go-to way to stay active and have a little fun. Life’s all about balance, right? I’m excited to share my adventures and designs with you!
+> I’m an experienced UI/UX designer and an aspiring front-end developer with a passion for creating clean, engaging, and user-focused digital experiences. I enjoy turning ideas into intuitive designs and am constantly expanding my skills in front-end development to bring those designs to life.
 
-[Downloadable CV](https://drive.google.com/file/d/1mit1B4gx05lmJzqlYqrt-GL2gJPbU1F8/view?usp=sharing)
+With a background in Java programming and a strong foundation in visual design, I bridge both creativity and functionality. I’m also well-versed in Adobe Creative Suite and typography, allowing me to deliver visually impactful solutions that meet both user needs and project goals.
+
+I’m always eager to learn new technologies, collaborate on innovative projects, and grow in the ever-evolving world of design and development.
+
+[Downloadable CV](https://drive.google.com/file/d/1hpqKogvYHObwaB8tdMjTpTssbEm8NAyZ/view?usp=sharing)
 
 ___
 
