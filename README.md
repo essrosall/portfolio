@@ -3,13 +3,20 @@
 
 > Hey there! I’m John Rey Rosales, your friendly neighborhood designer. I spend my days diving into the world of design—whether it’s sketching on paper or clicking away on my computer, I’m always on the lookout for new tools to level up my creative game.
 
-> I’m an experienced UI/UX designer and an aspiring front-end developer with a passion for creating clean, engaging, and user-focused digital experiences. I enjoy turning ideas into intuitive designs and am constantly expanding my skills in front-end development to bring those designs to life.
+> I’m an experienced UI/UX designer and an aspiring front-end developer with a passion for creating clean, engaging, and user-focused digital experiences. I enjoy turning ideas into intuitive designs and am constantly expanding my skills in front-end development to bring those designs to life. With a background in Java programming and a strong foundation in visual design, I bridge both creativity and functionality. I’m also well-versed in Adobe Creative Suite and typography, allowing me to deliver visually impactful solutions that meet both user needs and project goals. I’m always eager to learn new technologies, collaborate on innovative projects, and grow in the ever-evolving world of design and development.
 
-With a background in Java programming and a strong foundation in visual design, I bridge both creativity and functionality. I’m also well-versed in Adobe Creative Suite and typography, allowing me to deliver visually impactful solutions that meet both user needs and project goals.
+[Downloadable CV](https://drive.google.com/file/d/17P8vzRIvObTUUd75ROWXdWiIwYTl8V4E/view?usp=sharing)
 
-I’m always eager to learn new technologies, collaborate on innovative projects, and grow in the ever-evolving world of design and development.
+___
 
-[Downloadable CV](https://drive.google.com/file/d/1hpqKogvYHObwaB8tdMjTpTssbEm8NAyZ/view?usp=sharing)
+## WORK EXPERIENCE
+
+**GraphicArtist @ [TAPP.PHPrintingServices] (https://www.facebook.com/TAPPClothingAndApparel) (September 2023 - Semptembere 2024)
+
+
+- Created digital image files for use in digital and traditional printing methods.
+- Designed website layouts, templates,and unique branded looks.
+- Collaborated with clients to create visually appealing designs for print and digital media, meeting project deadlines and maintaining client satisfaction.
 
 ___
 
@@ -37,7 +44,7 @@ __Mobile Number:__ +63 993 6768 737
 
 __Location:__ [Jose Abad Santos, Novaliches, Quezon City, Metro Manila, Philippines](https://maps.app.goo.gl/rLCAmkpS49Hiw94PA)
 
-__Email:__ rosales.johnrey.agpalza@gmail.com
+__Email:__ *rosales.johnrey.agpalza@gmail.com*
 
 ___
 
