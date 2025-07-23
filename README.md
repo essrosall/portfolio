@@ -3,7 +3,7 @@
 
 > Hey there! I’m John Rey Rosales, your friendly neighborhood designer. I spend my days diving into the world of design—whether it’s sketching on paper or clicking away on my computer, I’m always on the lookout for new tools to level up my creative game.
 
-> I’m an experienced UI/UX designer and an aspiring front-end developer with a passion for creating clean, engaging, and user-focused digital experiences. I enjoy turning ideas into intuitive designs and am constantly expanding my skills in front-end development to bring those designs to life. With a background in Java programming and a strong foundation in visual design, I bridge both creativity and functionality. I’m also well-versed in Adobe Creative Suite and typography, allowing me to deliver visually impactful solutions that meet both user needs and project goals. I’m always eager to learn new technologies, collaborate on innovative projects, and grow in the ever-evolving world of design and development.
+> I’m an experienced UI/UX designer and an aspiring front-end developer with a passion for creating clean, engaging, and user-focused digital experiences. I enjoy transforming ideas into intuitive designs and continually expanding my skills in front-end development to bring those designs to life. With a background in Java programming and a strong foundation in visual design, I bridge both creativity and functionality. I’m also well-versed in Adobe Creative Suite and typography, allowing me to deliver visually impactful solutions that meet both user needs and project goals. I’m always eager to learn new technologies, collaborate on innovative projects, and grow in the ever-evolving world of design and development.
 
 [Downloadable CV](https://drive.google.com/file/d/17P8vzRIvObTUUd75ROWXdWiIwYTl8V4E/view?usp=sharing)
 
@@ -16,14 +16,14 @@ ___(September 2023 - Semptembere 2024)___
 
 
 - Created digital image files for use in digital and traditional printing methods.
-- Designed website layouts, templates,and unique branded looks.
+- Designed website layouts, templates, and unique branded looks.
 - Collaborated with clients to create visually appealing designs for print and digital media, meeting project deadlines and maintaining client satisfaction.
 
 ___
 
 ## CONTACT ME
 
-I’m always excited to work on creative projects and bring ideas to life! Whether it’s a collaboration or a commission, feel free to reach out. Let’s create something amazing together!
+I’m always excited to work on creative projects and bring ideas to life! Whether it’s a collaboration or a commission, please don't hesitate to reach out. Let’s create something amazing together!
 
 
 __Socials__
@@ -31,12 +31,16 @@ __Socials__
 <a href="https://github.com/essrosall">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40"/>
 </a>
+<a href="https://www.linkedin.com/in/rosales-john-rey-a-017a14341/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Linkedin-web-vt.png?20230207115505" alt="Linkedin" width="40" height="40"/>
+</a>
 <a href="https://www.facebook.com/ess.rosall/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="40"/>
 </a>
 <a href="https://www.instagram.com/ess.rosall/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
 </a>
+
 
 
 ___
